@@ -18,7 +18,10 @@ module.exports = {
   */
   loading: { color: '#3B8070' },
 
-  buildModules: ['@nuxt/typescript-build'],
+  buildModules: [
+    '@nuxt/typescript-build',
+    '@nuxtjs/vuetify'
+  ],
 
   /*
   ** Build configuration
@@ -27,7 +30,7 @@ module.exports = {
     /*
     ** Run ESLint on save
     */
-    extend (config, { isDev, isClient }) {
+    extend(config, { isDev, isClient }) {
       if (isDev && isClient) {
         config.module.rules.push({
           enforce: 'pre',

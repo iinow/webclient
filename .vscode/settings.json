@@ -4,6 +4,7 @@
   "editor.fontFamily": "Consolas, Menlo, Monaco, 'Courier New', monospace",
   "editor.multiCursorModifier": "ctrlCmd",
   "editor.formatOnSave": true,
+  "prettier.vueIndentScriptAndStyle": true,
   "window.zoomLevel": 0,
   "editor.tabSize": 2,
   "files.exclude": {
@@ -30,7 +31,6 @@
       "wrap_attributes": "auto"
     }
   },
-  "prettier.requireConfig": true,
   "explorer.confirmDelete": false,
   "extensions.ignoreRecommendations": false,
   "workbench.editor.enablePreview": false
