@@ -1,0 +1,16 @@
+{
+  "method": [
+    {
+      "name": "GET"
+    },
+    {
+      "name": "PUT"
+    },
+    {
+      "name": "POST"
+    },
+    {
+      "name": "DELETE"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "menu": [
+    {
+      "id": "api",
+      "icon": "mdi-view-dashboard"
+    },
+    {
+      "id": "Settings",
+      "icon": "mdi-settings"
+    }
+  ]
+}
