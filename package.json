@@ -19,7 +19,7 @@
     "@types/lodash-es": "^4.17.3",
     "axios": "^0.19.2",
     "lodash-es": "^4.17.15",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "nuxt": "^2.0.0",
     "typescript-json-serializer": "^1.4.4"
   },
